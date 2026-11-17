@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ttaV8.8.0.vcxproj" Id="7e3a5b21-8c4d-4f6a-9d2e-1a5b8c6d3f01" />
+  <Build Solution="Debug|x64" />
+  <Build Solution="Release|x64" />
+</Solution>
